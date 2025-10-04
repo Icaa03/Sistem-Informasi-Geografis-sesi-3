@@ -1,0 +1,41 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Klinik Aesthetic Sukabumi",
+        "alamat": "Jl. Contoh No.12, Sukabumi",
+        "jenis": "Esthetic Medis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.9140, -6.9201]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "ZAP Clinic Sukabumi",
+        "alamat": "Jl. Pelabuhan II No.8, Sukabumi",
+        "jenis": "Klinik Dermatologi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.9275, -6.9160]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Natasha Skin Clinic Sukabumi",
+        "alamat": "Jl. Bhayangkara No.25, Sukabumi",
+        "jenis": "Klinik Kecantikan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.9100, -6.9250]
+      }
+    }
+  ]
+}
